@@ -1,0 +1,14 @@
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/bin/Debug/net8.0/TradingConsoleApp
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/bin/Debug/net8.0/TradingConsoleApp.deps.json
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/bin/Debug/net8.0/TradingConsoleApp.runtimeconfig.json
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/bin/Debug/net8.0/TradingConsoleApp.dll
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/bin/Debug/net8.0/TradingConsoleApp.pdb
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.AssemblyInfoInputs.cache
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.AssemblyInfo.cs
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.csproj.CoreCompileInputs.cache
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.dll
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/refint/TradingConsoleApp.dll
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.pdb
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/TradingConsoleApp.genruntimeconfig.cache
+/Users/rohit.dimri/RiderProjects/TradingConsoleApp/TradingConsoleApp/obj/Debug/net8.0/ref/TradingConsoleApp.dll
